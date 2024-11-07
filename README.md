@@ -13,9 +13,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Takushi27/Adalberto/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Takushi27/Adalberto/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img alt="animação do grid de contribuições do GitHub" src="https://github.com/Takushi27/Adalberto/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="animação do grid de contribuições do GitHub" src="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </p>
 
