@@ -3,7 +3,20 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Takushi27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="languages graph"/>
+ <a href="https://github.com/Takushi27" align="center">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=0d1117&text_color=0d1117&bg_color=transparent&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img width="35%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=fafafa&text_color=fafafa&bg_color=0d1117&hide_border=true" />
+    </picture>
+  </a>
+
 </div>
 
 <p align="center">
