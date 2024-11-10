@@ -6,7 +6,7 @@
  <a href="https://github.com/Takushi27" align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&layout=compact&langs_count=8&card_width=320&hide_progress=true&title_color=00bfbf&text_color=fafafa&bg_color=0d1117&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Takushi27&layout=compact&langs_count=8&card_width=100&hide_progress=true&title_color=00bfbf&text_color=fafafa&bg_color=0d1117&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
