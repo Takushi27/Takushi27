@@ -15,7 +15,7 @@
   <h2>🛠️ Minhas Habilidades</h2>
   <p>Tecnologias e linguagens com as quais eu trabalho:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,css,react,blade,nodejs,docker,php,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,css,react,laraval,nodejs,docker,php,git,vscode" />
   </a>
 </div>
 
