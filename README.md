@@ -2,16 +2,6 @@
   <img src="https://github.com/Takushi27/Takushi27/blob/main/profile-header.png?raw=true" alt="Banner de Perfil">
 </p>
 
-<h1 align="center">👋 Olá, sou o Takushi27!</h1>
-
-<p align="center">
-  Desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios. Atualmente focado(a) em explorar o mundo do desenvolvimento com <strong>Python</strong> e <strong>C++</strong>, adoro transformar ideias em código funcional e elegante.
-</p>
-
-<p align="center">
-  Seja bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará alguns dos meus projetos e atividades.
-</p>
-
 <br>
 
 <div align="center">
@@ -56,6 +46,3 @@
 
 <br>
 
-<p align="center">
-  Feito com ❤️ por Takushi27
-</p>
