@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Takushi27/Takushi27/blob/main/profile-header.png?raw=true" alt="Banner de Perfil">
-</p>
 
 <br>
 
