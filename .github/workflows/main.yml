@@ -1,20 +1,24 @@
-name: Generate Snake Animation
-
+name: Gerar Animação de Cobra
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
+    permissions:
+      contents: write 
+      
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Gerar arquivos SVG da cobra
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,8 +26,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Commit dos SVGs gerados
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          add: 'dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg'
+          message: 'Atualização automática: Gerar animação de cobra'
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
