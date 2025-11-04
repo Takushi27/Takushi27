@@ -1,20 +1,3 @@
-<br>
-
-<div align="center">
-  <h2>🚀 Minhas Estatísticas</h2>
-  <a href="https://github.com/Takushi27" target="_blank" rel="noopener noreferrer">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=Takushi27&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" 
-      alt="Estatísticas do GitHub de Takushi27"
-    />
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takushi27&layout=compact&langs_count=7&theme=dark&hide_border=true" 
-      alt="Linguagens mais usadas por Takushi27"
-    />
-  </a>
-</div>
 
 <br>
 
