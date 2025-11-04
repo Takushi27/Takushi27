@@ -1,11 +1,18 @@
-
 <br>
 
 <div align="center">
   <h2>🚀 Minhas Estatísticas</h2>
-  <a href="https://github.com/Takushi27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takushi27&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takushi27&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens Mais Usadas"/>
+  <a href="https://github.com/Takushi27" target="_blank" rel="noopener noreferrer">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=Takushi27&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" 
+      alt="Estatísticas do GitHub de Takushi27"
+    />
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takushi27&layout=compact&langs_count=7&theme=dark&hide_border=true" 
+      alt="Linguagens mais usadas por Takushi27"
+    />
   </a>
 </div>
 
@@ -14,8 +21,11 @@
 <div align="center">
   <h2>🛠️ Minhas Habilidades</h2>
   <p>Tecnologias e linguagens com as quais eu trabalho:</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,css,react,laravel,nodejs,docker,php,git,vscode" />
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,css,react,laravel,nodejs,docker,php,git,vscode" 
+      alt="Ícones das linguagens e tecnologias de Takushi27"
+    />
   </a>
 </div>
 
@@ -24,18 +34,36 @@
 <div align="center">
   <h2>🌱 Atividade Recente</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img alt="Animação do grid de contribuições do GitHub" src="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake-dark.svg?raw=true"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true"
+    >
+    <img 
+      alt="Animação do grid de contribuições do GitHub de Takushi27" 
+      src="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true"
+    >
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adalberto-silva-santan" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/adal.berto1508/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  </div>
+  <a href="https://www.linkedin.com/in/adalberto-silva-santan" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    >
+  </a>
+  <a href="https://www.instagram.com/adal.berto1508/" target="_blank" rel="noopener noreferrer">
+    <img 
+      alt="Instagram" 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    >
+  </a>
+</div>
 
 <br>
-
