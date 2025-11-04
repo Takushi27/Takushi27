@@ -17,19 +17,19 @@
 <div align="center">
   <h2>🌱 Atividade Recente</h2>
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake-dark.svg?raw=true"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true"
-    >
-    <img 
-      alt="Animação do grid de contribuições do GitHub de Takushi27" 
-      src="https://github.com/Takushi27/Takushi27/blob/output/github-contribution-grid-snake.svg?raw=true"
-    >
-  </picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/Takushi27/Takushi27/blob/main/dist/github-contribution-grid-snake-dark.svg?raw=true"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github.com/Takushi27/Takushi27/blob/main/dist/github-contribution-grid-snake.svg?raw=true"
+  >
+  <img 
+    alt="Animação do grid de contribuições do GitHub de Takushi27" 
+    src="https://github.com/Takushi27/Takushi27/blob/main/dist/github-contribution-grid-snake.svg?raw=true"
+  >
+</picture>
 </div>
 
 <br>
